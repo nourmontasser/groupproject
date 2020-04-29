@@ -1,5 +1,5 @@
 #include "OAbbass.h"
-void OAbbas()
+void OAbbass()
 {
 	cout<<"OAbbass"<<endl;
 	cout<<"omarabbass@live.com"<<endl;
