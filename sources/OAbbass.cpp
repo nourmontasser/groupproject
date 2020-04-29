@@ -1,10 +1,3 @@
-#include"OAbbas.h"
-int main()
-{
-	OAbbas();
-	return 0;
-}
-
 void OAbbas()
 {
 	cout<<"OAbbass"<<endl;
