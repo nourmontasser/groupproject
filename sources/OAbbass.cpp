@@ -1,11 +1,5 @@
-#include"OAbbas.h"
-int main()
-{
-	OAbbas();
-	return 0;
-}
-
-void OAbbas()
+#include"OAbbass.h"
+void OAbbass()
 {
 	cout<<"OAbbass"<<endl;
 	cout<<"omarabbass@live.com"<<endl;
